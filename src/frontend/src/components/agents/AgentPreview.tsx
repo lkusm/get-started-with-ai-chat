@@ -391,7 +391,7 @@ export function AgentPreview({ agentDetails }: IAgentPreviewProps): ReactNode {
                 <Caption1 className={styles.agentName}>
                   {agentDetails.name}
                 </Caption1>
-                <Title2>How can I help you today?</Title2>
+                <Title2>Hello, I'm your assistant</Title2>
               </div>
             )}
             <AgentPreviewChatBot
