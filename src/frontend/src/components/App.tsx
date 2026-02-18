@@ -7,7 +7,7 @@ const App: React.FC = () => {
       id: "chatbot",
       object: "chatbot",
       created_at: Date.now(),
-      name: "Chatbot",
+      name: "ChatAssistant",
       description: "This is a sample chatbot.",
       model: "default",
       metadata: {
